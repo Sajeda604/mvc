@@ -26,6 +26,7 @@ class UserController {
                 echo "User added successfully!";
             } else {
                 echo "Failed to add user.";
+                echo "failed";
             }
         }
     }
